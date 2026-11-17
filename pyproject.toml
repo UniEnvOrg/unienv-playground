@@ -12,11 +12,11 @@ dependencies = [
 [project.optional-dependencies]
 
 [project.urls]
-Homepage = "https://github.com/UniEnvOrg/MujocoPlaygroundAdaptor"
-Documentation = "https://github.com/UniEnvOrg/MujocoPlaygroundAdaptor"
-Repository = "https://github.com/UniEnvOrg/MujocoPlaygroundAdaptor"
-Issues = "https://github.com/UniEnvOrg/MujocoPlaygroundAdaptor/issues"
-Changelog = "https://github.com/UniEnvOrg/MujocoPlaygroundAdaptor/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/UniEnvOrg/unienv-playground"
+Documentation = "https://github.com/UniEnvOrg/unienv-playground"
+Repository = "https://github.com/UniEnvOrg/unienv-playground"
+Issues = "https://github.com/UniEnvOrg/unienv-playground/issues"
+Changelog = "https://github.com/UniEnvOrg/unienv-playground/blob/main/CHANGELOG.md"
 
 [tool.setuptools.packages.find]
 include = ["*"]
